@@ -1,6 +1,3 @@
-import Link from "next/link";
-import Image from "next/image";
-
 const mockUrls = [
   "https://utfs.io/f/c7818c8f-f213-4ca3-b61b-be8aa44c36b2-58t1h4.png",
   "https://utfs.io/f/37de1931-352e-4eac-8d49-e998916d262d-ezcxv8.png",
